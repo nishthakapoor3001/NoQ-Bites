@@ -1,0 +1,15 @@
+[
+        {
+            "restaurantId": 1,
+            "restaurantName": "Subway",
+            "password": "subway1",
+            "address": "SLC"
+        },
+        {
+             "restaurantId": 4,
+             "restaurantName": "Hakka Wok",
+             "password": "hakka",
+             "address": "DC Bytes"
+        }
+
+]

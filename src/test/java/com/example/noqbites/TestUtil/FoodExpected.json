@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "Request is processed",
+  "food": [
+    {
+      "foodId": 8,
+      "foodItem": "Noodles",
+      "foodType": "VEG",
+      "foodCategory": "NON_BEVERAGE",
+      "price": 11.0
+    }
+  ]
+}

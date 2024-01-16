@@ -1,0 +1,16 @@
+{
+  "cartItems": [
+    {
+      "id": 27,
+      "quantity": 2,
+      "product": {
+        "foodId": 8,
+        "foodItem": "Noodles",
+        "foodType": "VEG",
+        "foodCategory": "NON_BEVERAGE",
+        "price": 11.0
+      }
+    }
+  ],
+  "totalCost": 22.0
+}

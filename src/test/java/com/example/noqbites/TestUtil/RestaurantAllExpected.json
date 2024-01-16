@@ -1,0 +1,18 @@
+{
+  "success": true,
+  "message": "Request has been processed",
+  "restaurants": [
+    {
+      "success": null,
+      "message": null,
+      "restaurantName": "Hakka Wok",
+      "address": "DC Bytes"
+    },
+    {
+      "success": null,
+      "message": null,
+      "restaurantName": "Subway",
+      "address": "SLC"
+    }
+  ]
+}
